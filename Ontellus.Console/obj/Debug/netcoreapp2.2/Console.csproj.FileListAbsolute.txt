@@ -1,0 +1,4 @@
+/home/mac10688/Programming/Ontellus/Console/obj/Debug/netcoreapp2.2/Console.csprojAssemblyReference.cache
+/home/mac10688/Programming/Ontellus/Console/obj/Debug/netcoreapp2.2/Console.csproj.CoreCompileInputs.cache
+/home/mac10688/Programming/Ontellus/Console/obj/Debug/netcoreapp2.2/Console.AssemblyInfoInputs.cache
+/home/mac10688/Programming/Ontellus/Console/obj/Debug/netcoreapp2.2/Console.AssemblyInfo.cs

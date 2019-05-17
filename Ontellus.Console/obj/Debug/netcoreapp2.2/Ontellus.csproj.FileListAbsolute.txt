@@ -1,0 +1,11 @@
+/home/mac10688/Programming/Ontellus/bin/Debug/netcoreapp2.2/Ontellus.deps.json
+/home/mac10688/Programming/Ontellus/bin/Debug/netcoreapp2.2/Ontellus.runtimeconfig.json
+/home/mac10688/Programming/Ontellus/bin/Debug/netcoreapp2.2/Ontellus.runtimeconfig.dev.json
+/home/mac10688/Programming/Ontellus/bin/Debug/netcoreapp2.2/Ontellus.dll
+/home/mac10688/Programming/Ontellus/bin/Debug/netcoreapp2.2/Ontellus.pdb
+/home/mac10688/Programming/Ontellus/obj/Debug/netcoreapp2.2/Ontellus.csprojAssemblyReference.cache
+/home/mac10688/Programming/Ontellus/obj/Debug/netcoreapp2.2/Ontellus.csproj.CoreCompileInputs.cache
+/home/mac10688/Programming/Ontellus/obj/Debug/netcoreapp2.2/Ontellus.AssemblyInfoInputs.cache
+/home/mac10688/Programming/Ontellus/obj/Debug/netcoreapp2.2/Ontellus.AssemblyInfo.cs
+/home/mac10688/Programming/Ontellus/obj/Debug/netcoreapp2.2/Ontellus.dll
+/home/mac10688/Programming/Ontellus/obj/Debug/netcoreapp2.2/Ontellus.pdb
