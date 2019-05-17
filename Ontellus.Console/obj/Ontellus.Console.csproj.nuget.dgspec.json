@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/mac10688/Programming/Ontellus/Ontellus.Console/Ontellus.Console.csproj": {}
+    "/home/mac10688/Programming/Ontellus_Csharp/Ontellus.Console/Ontellus.Console.csproj": {}
   },
   "projects": {
-    "/home/mac10688/Programming/Ontellus/Library/Library.csproj": {
+    "/home/mac10688/Programming/Ontellus_Csharp/Library/Library.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/mac10688/Programming/Ontellus/Library/Library.csproj",
+        "projectUniqueName": "/home/mac10688/Programming/Ontellus_Csharp/Library/Library.csproj",
         "projectName": "Library",
-        "projectPath": "/home/mac10688/Programming/Ontellus/Library/Library.csproj",
+        "projectPath": "/home/mac10688/Programming/Ontellus_Csharp/Library/Library.csproj",
         "packagesPath": "/home/mac10688/.nuget/packages/",
-        "outputPath": "/home/mac10688/Programming/Ontellus/Library/obj/",
+        "outputPath": "/home/mac10688/Programming/Ontellus_Csharp/Library/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/share/dotnet/sdk/NuGetFallbackFolder"
@@ -54,14 +54,14 @@
         }
       }
     },
-    "/home/mac10688/Programming/Ontellus/Ontellus.Console/Ontellus.Console.csproj": {
+    "/home/mac10688/Programming/Ontellus_Csharp/Ontellus.Console/Ontellus.Console.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/mac10688/Programming/Ontellus/Ontellus.Console/Ontellus.Console.csproj",
+        "projectUniqueName": "/home/mac10688/Programming/Ontellus_Csharp/Ontellus.Console/Ontellus.Console.csproj",
         "projectName": "Ontellus.Console",
-        "projectPath": "/home/mac10688/Programming/Ontellus/Ontellus.Console/Ontellus.Console.csproj",
+        "projectPath": "/home/mac10688/Programming/Ontellus_Csharp/Ontellus.Console/Ontellus.Console.csproj",
         "packagesPath": "/home/mac10688/.nuget/packages/",
-        "outputPath": "/home/mac10688/Programming/Ontellus/Ontellus.Console/obj/",
+        "outputPath": "/home/mac10688/Programming/Ontellus_Csharp/Ontellus.Console/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/share/dotnet/sdk/NuGetFallbackFolder"
@@ -78,8 +78,8 @@
         "frameworks": {
           "netcoreapp2.2": {
             "projectReferences": {
-              "/home/mac10688/Programming/Ontellus/Library/Library.csproj": {
-                "projectPath": "/home/mac10688/Programming/Ontellus/Library/Library.csproj"
+              "/home/mac10688/Programming/Ontellus_Csharp/Library/Library.csproj": {
+                "projectPath": "/home/mac10688/Programming/Ontellus_Csharp/Library/Library.csproj"
               }
             }
           }

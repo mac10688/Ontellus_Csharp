@@ -39,15 +39,20 @@ namespace Library
       {
           if (left.Count > 0 && right.Count > 0)
           {
-              if (left[0].CompareTo(right[0]) <= 0)  //Comparing First two elements to see which is smaller
+              if (left[0].CompareTo(right[0]) < 0)  //Comparing First two elements to see which is smaller
               {
                   result.Add(left[0]);
                   left.Remove(left[0]);      //Rest of the list minus the first element
               }
-              else
+              else if(left[0].CompareTo(right[0]) > 0)
               {
                   result.Add(right[0]);
                   right.Remove(right[0]);
+              }
+              else
+              {
+                // Removing duplicates
+                  left.Remove(left[0]);
               }
           }
           else if(left.Count>0)

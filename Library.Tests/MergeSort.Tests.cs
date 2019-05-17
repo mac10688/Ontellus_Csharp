@@ -24,5 +24,30 @@ namespace Library.Tests
           Assert.Equal(new DateTime(2001, 09, 11), sortedDates[2]);
         }
 
+        [Fact]
+        public void RemovesDuplicates()
+        {
+          var unsorted = new List<Decimal>()
+          {
+            1,
+            2,
+            4,
+            2,
+            1
+          };
+
+          var sortedNumbers = MergeSort.Sort(unsorted);
+          var expected = new List<Decimal>{ 1,2,4 };
+
+          Assert.Equal(expected.Count, sortedNumbers.Count);
+
+          for(var i = 0; i < sortedNumbers.Count; i++)
+          {
+            var sortedNum = sortedNumbers[i];
+            var expectedNum = expected[i];
+            Assert.Equal(expectedNum, sortedNum);
+          }
+        }
+
     }
 }

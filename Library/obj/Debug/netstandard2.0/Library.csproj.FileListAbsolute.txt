@@ -7,3 +7,12 @@
 /home/mac10688/Programming/Ontellus/Library/bin/Debug/netstandard2.0/Library.pdb
 /home/mac10688/Programming/Ontellus/Library/obj/Debug/netstandard2.0/Library.dll
 /home/mac10688/Programming/Ontellus/Library/obj/Debug/netstandard2.0/Library.pdb
+/home/mac10688/Programming/Ontellus_Csharp/Library/bin/Debug/netstandard2.0/Library.deps.json
+/home/mac10688/Programming/Ontellus_Csharp/Library/bin/Debug/netstandard2.0/Library.dll
+/home/mac10688/Programming/Ontellus_Csharp/Library/bin/Debug/netstandard2.0/Library.pdb
+/home/mac10688/Programming/Ontellus_Csharp/Library/obj/Debug/netstandard2.0/Library.csprojAssemblyReference.cache
+/home/mac10688/Programming/Ontellus_Csharp/Library/obj/Debug/netstandard2.0/Library.csproj.CoreCompileInputs.cache
+/home/mac10688/Programming/Ontellus_Csharp/Library/obj/Debug/netstandard2.0/Library.AssemblyInfoInputs.cache
+/home/mac10688/Programming/Ontellus_Csharp/Library/obj/Debug/netstandard2.0/Library.AssemblyInfo.cs
+/home/mac10688/Programming/Ontellus_Csharp/Library/obj/Debug/netstandard2.0/Library.dll
+/home/mac10688/Programming/Ontellus_Csharp/Library/obj/Debug/netstandard2.0/Library.pdb

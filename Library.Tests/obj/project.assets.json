@@ -5880,11 +5880,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/mac10688/Programming/Ontellus/Library.Tests/Library.Tests.csproj",
+      "projectUniqueName": "/home/mac10688/Programming/Ontellus_Csharp/Library.Tests/Library.Tests.csproj",
       "projectName": "Library.Tests",
-      "projectPath": "/home/mac10688/Programming/Ontellus/Library.Tests/Library.Tests.csproj",
+      "projectPath": "/home/mac10688/Programming/Ontellus_Csharp/Library.Tests/Library.Tests.csproj",
       "packagesPath": "/home/mac10688/.nuget/packages/",
-      "outputPath": "/home/mac10688/Programming/Ontellus/Library.Tests/obj/",
+      "outputPath": "/home/mac10688/Programming/Ontellus_Csharp/Library.Tests/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/share/dotnet/sdk/NuGetFallbackFolder"
@@ -5901,8 +5901,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "/home/mac10688/Programming/Ontellus/Library/Library.csproj": {
-              "projectPath": "/home/mac10688/Programming/Ontellus/Library/Library.csproj"
+            "/home/mac10688/Programming/Ontellus_Csharp/Library/Library.csproj": {
+              "projectPath": "/home/mac10688/Programming/Ontellus_Csharp/Library/Library.csproj"
             }
           }
         }

@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/mac10688/Programming/Ontellus/Library/Library.csproj",
+      "projectUniqueName": "/home/mac10688/Programming/Ontellus_Csharp/Library/Library.csproj",
       "projectName": "Library",
-      "projectPath": "/home/mac10688/Programming/Ontellus/Library/Library.csproj",
+      "projectPath": "/home/mac10688/Programming/Ontellus_Csharp/Library/Library.csproj",
       "packagesPath": "/home/mac10688/.nuget/packages/",
-      "outputPath": "/home/mac10688/Programming/Ontellus/Library/obj/",
+      "outputPath": "/home/mac10688/Programming/Ontellus_Csharp/Library/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/share/dotnet/sdk/NuGetFallbackFolder"
