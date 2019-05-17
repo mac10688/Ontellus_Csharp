@@ -6,6 +6,7 @@ namespace Library
   public class PhoneNumber : IComparable
   {
     private readonly string _phoneNumber;
+    //This regex is a modified version of https://stackoverflow.com/questions/18091324/regex-to-match-all-us-phone-number-formats
     private const string _phoneNumberPattern = @"(\(\d{3}\)|(\d{3})-)?\d{3}-\d{4}";
     
     private PhoneNumber(string phoneNumber)
