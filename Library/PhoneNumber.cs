@@ -6,7 +6,7 @@ namespace Library
   public class PhoneNumber : IComparable
   {
     private readonly string _phoneNumber;
-    private const string _phoneNumberPattern = @"^\d{3}-\d{3}-\d{4}$";
+    private const string _phoneNumberPattern = @"(\(\d{3}\)|(\d{3})-)?\d{3}-\d{4}";
     
     private PhoneNumber(string phoneNumber)
     {
@@ -51,7 +51,14 @@ namespace Library
 
     public override string ToString()
     {
-      return _phoneNumber;
+      if (_phoneNumber.Length == 7)
+      {
+        return Convert.ToInt64(_phoneNumber).ToString("###-####");
+      }
+      else
+      {
+        return Convert.ToInt64(_phoneNumber).ToString("###-###-####");
+      }
     }
   }
 }
